@@ -1,10 +1,10 @@
 <h1>AWS Cloud Resume Challenge</h1>
 
-This Github repo will be for  the AWS Cloud Resume Challenge that I will be taking a part in.
+This Github repo will be for the AWS Cloud Resume Challenge I will be participating in.
 1. Certification
-Your resume needs to have the AWS Cloud Practitioner certification on it. This is an introductory certification that orients you on the industry-leading AWS cloud – if you have a more advanced AWS cert, that’s fine but not expected. You can sit this exam online for $100 USD. A Cloud Guru offers exam prep resources.
+Your resume needs to have the AWS Cloud Practitioner certification on it. This is an introductory certification that orients you on the industry-leading AWS cloud – if you have a more advanced AWS cert, that’s fine but not expected. You can sit this exam online for $100 USD. A Cloud Guru offers exam prep resources. (In Progress as of 07/10/2023)
 
-2. HTML
+~~2. HTML~~
 ~~Your resume needs to be written in HTML. Not a Word doc, not a PDF. Here is an example of what I mean.~~
 
 3. CSS
