@@ -13,8 +13,8 @@ Your resume needs to be styled with CSS. No worries if youâ€™re not a designer â
 ~~4. Static Website
 Your HTML resume should be deployed online as an Amazon S3 static website. Services like Netlify and GitHub Pages are great and I would normally recommend them for personal static site deployments, but they make things a little too abstract for our purposes here. Use S3.~~ **Completed 7/11/23**
 
-5. HTTPS
-The S3 website URL should use HTTPS for security. You will need to use Amazon CloudFront to help with this.
+~~5. HTTPS
+The S3 website URL should use HTTPS for security. You will need to use Amazon CloudFront to help with this.~~
 
 6. DNS
 Point a custom DNS domain name to the CloudFront distribution, so your resume can be accessed at something like my-c00l-resume-website.com. You can use Amazon Route 53 or any other DNS provider for this. A domain name usually costs about ten bucks to register.
